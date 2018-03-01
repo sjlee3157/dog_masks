@@ -1,8 +1,8 @@
 # hello-world
-repository of CAT MASKS
+repository of cat masks
 
 
-STRAP YOYRSELF IN PUPPIES
+STRAP YOYRSELF IN KITTEHS
 
 chill is not on the agenda this week
 
