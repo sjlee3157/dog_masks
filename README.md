@@ -1,5 +1,5 @@
 # hello-world
-repository of dog masks
+repository of CAT MASKS
 
 
 STRAP YOYRSELF IN PUPPIES
