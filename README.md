@@ -1,4 +1,4 @@
-# hello-world
+# conflict resolution for higher-dimensional beings
 repository of dog masks
 
 
