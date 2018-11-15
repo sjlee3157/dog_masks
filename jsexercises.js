@@ -106,3 +106,85 @@ for (let value of moreValues) {
     console.log(`Regular values like ${value}!`);
   }
 }
+
+// Functions Worksheet
+
+const hello = function hello() {
+  console.log('hello!');
+};
+hello();
+const helloArrowFunction = () => console.log('hello!');
+helloArrowFunction();
+
+//
+
+const sayNum = function sayNum(number) {
+  console.log(`Your number is ${number}.`);
+};
+sayNum(1);
+
+const sayNumAnonymously = function(number) {
+  console.log(`Your number is ${number}.`);
+};
+sayNumAnonymously(2);
+
+const sayNumWithArrow = number => console.log(`Your number is ${number}.`);
+sayNumWithArrow(3);
+
+function sayNumAsFunctionalDeclaration(number) {
+  console.log(`Your number is ${number}.`);
+}
+sayNumAsFunctionalDeclaration(4);
+
+//
+
+const largerNum = function largerNum(first, second) {
+  if (first >= second) {
+    return first;
+  } else if (second > first) {
+    return second;
+  }
+}
+console.log(largerNum(99,1));
+
+const largerNumWithArrowAndTernary = (first, second) => {
+  return (first >= second) ? first : second;
+}
+console.log(largerNumWithArrowAndTernary(44,1));
+
+//
+let latestItems = ['little','bunny','foo','foo']
+const output = function output(items) {
+  items.forEach(function (item) {
+    console.log(item);
+  });
+}
+output(latestItems);
+
+const outputWithArrow = items => {
+  items.forEach(function (item) {
+    console.log(item);
+  });
+}
+outputWithArrow(latestItems);
+
+//
+// We like to eat people
+const zombies = function() {
+  return "We like to eat people";
+};
+
+console.log(zombies());
+
+//
+// Hey hey hey
+console.log(function () {
+  return "Hey hey hey";
+}());
+
+//
+// motormouth is the name of the function referenced by blabbermouth
+const blabbermouth = function motormouth() { };
+console.log(blabbermouth.name);
+//undefined (but only because it's empty)
+console.log(blabbermouth());
