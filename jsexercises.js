@@ -198,7 +198,7 @@ const toDo = {
   done: false,
   printStatus() {
     let status = (this.done) ? 'is' : 'is not yet';
-    console.log(`Task \"${this.description}\" belongs to \"${this.assignee}\" and ${status} done.`);
+    console.log(`Task "${this.description}" belongs to "${this.assignee}" and ${status} done.`);
   }
 };
 
@@ -233,5 +233,4 @@ console.log(`The biggest is: ${biggest}`);
 
 
 
-
-#
+//
