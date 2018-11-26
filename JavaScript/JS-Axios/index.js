@@ -43,10 +43,7 @@ const loadPets = () => {
 const readFormData = () => {
   let petForm = document.getElementById('pet-form');
   const petData = new FormData(petForm);
-
   // const curData = $(`#pet-form input[name="${curInput}"]`).val();
-
-
   return petData;
 };
 
