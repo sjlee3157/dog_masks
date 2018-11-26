@@ -24,6 +24,6 @@ const makeLikeBtn = (tweetId) => {
 
 $(document).ready(() => {
   makeLikeBtn(3423235234234);
-  makeLikeBtn(3423235234234);
-  makeLikeBtn(3423235234234);
+  makeLikeBtn(3423235234235);
+  makeLikeBtn(3423235234236);
 });
