@@ -1,0 +1,71 @@
+<p>Governments everywhere are grappling with a difficult task: how to define what data the likes of Facebook and Google can collect about people, and what can be done with it. For the U.S., a new set of proposals from Senator Mark Warner might point the way forward.</p>
+                                  <div class="hardwall" data-position="1"></div>
+                                  <div class="softwall" data-position="1"></div>
+                                  <p>In many ways, Europe has been the global standard-setter in regulating big data. Since 1995, it has strictly limited how personal information can be used. For the most part, if Europeans give a specific entity permission to collect their data for a specific use, that &#x2019;s where it stops. Information gleaned from a person &apos;s activity on a social network, for example, cannot be repurposed to make credit decisions.</p>
+                                  <div class="hardwall" data-position="2"></div>
+                                  <div class="softwall" data-position="2"></div>
+                                  <div id="outstream-video-1-PCZO4H6TTDS001" class="outstream-ad" data-position="outstream-video">
+                                      <script class="params" type="application/json">
+                                          {"contentId":"PCZO4H6TTDS001","position":"outstream","dimensions":{"large_desktop":[[1,8]],"small_desktop":[[1,8]],"tablet":[[1,8]]},"strategy":"always","type":"Outstream Video Native Ad","targeting":{"position":"outstream","url":"/opinion/articles/2018-08-05/how-america-can-stop-being-the-wild-west-of-data"},"containerId":"outstream-video-1-PCZO4H6TTDS001"}
+                                      </script>
+                                      <div class="outstream-video-ad-dummy"></div>
+                                  </div>
+                                  <div id="outstream-video-2-PCZO4H6TTDS001" class="outstream-ad" data-position="outstream-video">
+                                      <script class="params" type="application/json">
+                                          {"contentId":"PCZO4H6TTDS001","position":"outstream","dimensions":{"mobile":[[1,8]]},"strategy":"always","type":"Outstream Video Native Ad","targeting":{"position":"outstream","url":"/opinion/articles/2018-08-05/how-america-can-stop-being-the-wild-west-of-data"},"containerId":"outstream-video-2-PCZO4H6TTDS001"}
+                                      </script>
+                                      <div class="outstream-video-ad-dummy"></div>
+                                  </div>
+                                  <p>
+                                      Europe &apos;s new General Data Protection Regulation extends and strengthens those principles, empowering people to move their data from one company to another, or to be forgotten completely. Companies that don &#x2019;t comply face hefty penalties. Computer algorithms that, say, deliver ads or assess job candidates must be defensible as &#x201C;appropriate mathematical or statistical procedures.&#x201D;If people think they &#x2019;re being treated unfairly, they can demand that a human provide an explanation.
+
+                                      <a href="#footnote-1" class="footnote bottom-mode">
+                                          <span id="footnote-1-ref" class="footnote-anchor"></span>
+                                          1
+
+                                      </a>
+                                  </p>
+                                  <div class="hardwall" data-position="3"></div>
+                                  <div class="softwall" data-position="3"></div>
+                                  <div id="box-CSoA1B3" class="page-ad" data-position="mobile-box">
+                                      <script class="params" type="application/json">
+                                          {"contentId":"PCZO4H6TTDS001","position":"box","dimensions":{"mobile":[[300,250],[1,1]]},"type":"Mobile Body Box Ad","positionIncrement":1,"targeting":{"position":"box1","positionIncrement":1,"url":"/opinion/articles/2018-08-05/how-america-can-stop-being-the-wild-west-of-data"},"containerId":"box-CSoA1B3"}
+                                      </script>
+                                      <div class="mobile-box-ad-dummy"></div>
+                                  </div>
+                                  <p>America can &#x2019;t adopt a regime like Europe &#x2019;s, because it has long taken a much more laissez-faire approach. Except for specific cases such as medical records, personal information is up for grabs as soon as people allow anyone to collect it. All one needs to do is click &#x201C;I agree &#x201D;on a smartphone app, and the hoovering starts. A robust industry has sprung up to warehouse data, create profiles and sell them to whoever wants to know, for pretty much any purpose. It &#x2019;s the Wild West.</p>
+                                  <div class="hardwall" data-position="4"></div>
+                                  <div class="softwall" data-position="4"></div>
+                                  <aside class="inline-newsletter" data-state="ready"></aside>
+                                  <p>
+                                      This is good and bad. Conveniences accumulate when everyone &#x2019;s data is out there: Drivers, for example, benefit greatly from apps such as Waze, which uses data gleaned from myriad smartphones to discern traffic patterns and give better directions. But Americans also expose themselves to exploitation &#x2014;for instance, when insurers use data on consumption habits to predict health costs, and potentially to jack up <a href="https://www.propublica.org/article/health-insurers-are-vacuuming-up-details-about-you-and-it-could-raise-your-rates" target="_blank" rel="nofollow noopener">health insurance payments</a>
+                                      .
+                                  </p>
+                                  <div id="desktop-in-article-1-PCZO4H6TTDS001" class="page-ad" data-position="desktop-in-article">
+                                      <script class="params" type="application/json">
+                                          {"contentId":"PCZO4H6TTDS001","position":"desktop-in-article1","dimensions":{"large_desktop":[[5,21]],"small_desktop":[[5,21]]},"type":"Desktop in article Native Ad","targeting":{"position":"desktop-in-article1","url":"/opinion/articles/2018-08-05/how-america-can-stop-being-the-wild-west-of-data"},"containerId":"desktop-in-article-1-PCZO4H6TTDS001"}
+                                      </script>
+                                      <div class="desktop-in-article-ad-dummy"></div>
+                                  </div>
+                                  <p>
+                                      Here &#x2019;s where Warner &#x2019;s white paper, <a href="https://graphics.axios.com/pdf/PlatformPolicyPaper.pdf" target="_blank" rel="nofollow noopener">Potential Policy Proposals for Regulation of Social Media and Technology Firms</a>
+                                      , comes in. It &#x2019;s a stew of competing and conflicting suggestions, but overall it leans toward a sensible approach. Instead of limiting or cutting off data collection, it seeks to level the playing field.
+                                  </p>
+                                  <p>Consider Facebook:&#xA0;It &#x2019;s hard for new social networks or messaging apps to compete, because the company already has everyone &#x2019;s information. So one proposal suggests giving new entrants access to Facebook &#x2019;s friend networks, or at least making the information easy for users to port to a competitor. This is a kind of antitrust regulation that doubles down on data availability rather than stifling it.</p>
+                                  <p>As regards algorithms, Warner &#x2019;s approach would be more focused than Europe &#x2019;s, targeting those that might have the biggest effect on people &#x2019;s lives. The government, for example, could require that algorithms making decisions about credit, housing and employment be audited for fairness and bias. Also, people should be able to see and correct the data that go into the computer. If such requirements make the process less efficient, that &#x201C;seems an acceptable cost to promote greater fairness, auditability, and transparency.&#x201D;</p>
+                                  <div id="in-article-1-PCZO4H6TTDS001" class="page-ad bb-mobile bb-tablet" data-position="in-article">
+                                      <script class="params" type="application/json">
+                                          {"contentId":"PCZO4H6TTDS001","position":"in-article1","dimensions":{"mobile":[[5,19],[300,250],[1,1]],"tablet":[[5,19],[728,90],[1,1]]},"type":"In Article Flex Native Ad","positionIncrement":1,"targeting":{"position":"in-article1","positionIncrement":1,"url":"/opinion/articles/2018-08-05/how-america-can-stop-being-the-wild-west-of-data"},"containerId":"in-article-1-PCZO4H6TTDS001"}
+                                      </script>
+                                      <div class="in-article-ad-dummy"></div>
+                                  </div>
+                                  <p>There &#x2019;s no guarantee that any of this will become law, and even then only time will how well it would work. We &#x2019;re in uncharted territory. But given how much of Americans &#x2019;personal data is already out there, Warner &#x2019;s proposals are probably the best possible approach.</p>
+                                  <ol class="noscript-footnotes">
+                                      <li class="html-footnote">
+                                          <span id="footnote-1" class="footnote-anchor"></span>
+                                          <a href="#footnote-1-ref" class="sup-link"></a>
+                                          <p>
+                                              Of course, that all begs the question, how can such requirements be enforced? <a href="https://academic.oup.com/idpl/article/7/4/233/4762325">What kind of explanation</a>
+                                              is necessary, for example? Speaking as a former hedge fund quant, I can think of a few ways to give an explanation that is, by construction, meaningless. Similarly, who &#x2019;s in charge of deciding whether a formula is appropriate? The same people who designed it? It hasn &#x2019;t been spelled out yet.
+                                          </p>
+                                 

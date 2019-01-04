@@ -16,49 +16,48 @@ class SignupForm extends Component {
   }
 
   onFirstNameChangeHandler = (e) => {
-  this.setState({
-    firstName: e.target.value
-  })
-}
-
-onLastNameChangeHandler = (e) => {
-  this.setState({
-    lastName: e.target.value
-  })
-}
-
-onEmailChangeHandler = (e) => {
-  this.setState({
-    email: e.target.value
-  })
-}
-
-onPasswordChangeHandler = (e) => {
-  this.setState({
-    password: e.target.value
-  })
-}
-
-onSubmitHandler = (e) => {
-  e.preventDefault();
-
-  const newAccount = {
-    firstName: this.state.firstName,
-    lastName: this.state.lastName,
-    email: this.state.email,
-    password: this.state.password
+    this.setState({
+      firstName: e.target.value
+    })
   }
 
-  this.props.onCreateAccountCallback(newAccount);
+  onLastNameChangeHandler = (e) => {
+    this.setState({
+      lastName: e.target.value
+    })
+  }
 
-  this.setState({
-    name: '',
-    lastName: '',
-    email: '',
-    present: false
-  })
-}
+  onEmailChangeHandler = (e) => {
+    this.setState({
+      email: e.target.value
+    })
+  }
 
+  onPasswordChangeHandler = (e) => {
+    this.setState({
+      password: e.target.value
+    })
+  }
+
+  onSubmitHandler = (e) => {
+    e.preventDefault();
+
+    const newAccount = {
+      firstName: this.state.firstName,
+      lastName: this.state.lastName,
+      email: this.state.email,
+      password: this.state.password
+    }
+
+    this.props.onCreateAccountCallback(newAccount);
+
+    this.setState({
+      name: '',
+      lastName: '',
+      email: '',
+      present: false
+    })
+  }
 
   render() {
     return (

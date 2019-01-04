@@ -1,0 +1,34 @@
+Congress Is Missing the Point on Facebook
+Americans need a data bill of rights.
+Cathy O'Neil
+
+I’m getting increasingly baffled and disappointed by the scandal-cum-congressional-ragefest surrounding Facebook. Instead of piling on Mark Zuckerberg or worrying about who has our personal data, legislators should focus on the real issue: how our data get used.
+
+Let’s start with some ground truths that seem to be getting lost:
+
+Cambridge Analytica, the company the hoovered up a bunch of data on Facebook users, isn’t actually much of a threat. Yes, it’s super sleazy, but it mostly sucked at manipulating voters.
+
+Lots of other companies — maybe hundreds! — and “malicious actors” also collect our data. They’re much more likely to be selling our personal information to fraudsters.
+
+We should not expect Zuckerberg to follow through on any promises. He’s tried to make nice before to little actual effect. He has a lot of conflicts and he’s kind of a naïve robot.
+
+Even if Zuckerberg was a saint and didn’t care a whit about profit, chances are social media is still just plain bad for democracy.
+
+The politicians don’t want to admit that they don’t understand technology well enough to come up with reasonable regulations. Now that democracy itself might be at stake, they need someone to blame. Enter Zuckerberg, the perfect punching bag. Problem is, he likely did nothing illegal, and Facebook has been relatively open and obvious about their skeevy business practices. For the most part, nobody really cared until now. (If that sounds cynical, I’ll add: Democrats didn’t care until it looked like Republican campaigns were catching up to or even surpassing them with big data techniques.)
+
+What America really needs is a smarter conversation about data usage. It starts with a recognition: Our data are already out there. Even if we haven’t spilled our own personal information, someone has. We’re all exposed. Companies have the data and techniques they need to predict all sorts of things about us: our voting behavior, our consumer behavior, our health, our financial futures. That’s a lot of power being wielded by people who shouldn’t be trusted.
+
+If politicians want to create rules, they should start by narrowly addressing the worst possible uses for our personal information — the ways it can be used to deny people job opportunities, limit access to health insurance, set interest rates on loans and decide who gets out of jail. Essentially any bureaucratic decision can now be made by algorithm, and those algorithms need interrogating way more than Zuckerberg does.
+
+To that end, I propose a Data Bill of Rights. It should have two components: The first would specify how much control we may exert over how our individual information is used for important decisions, and the second would introduce federally enforced rules on how algorithms should be monitored more generally.
+
+The individual rights could be loosely based on the Fair Credit Reporting Act, which allows us to access the data employed to generate our credit scores. Most scoring algorithms work in a similar way, so this would be a reasonable model. As regards aggregate data, we should have the right to know what information algorithms are using to make decisions about us. We should be able to correct the record if it’s wrong, and to appeal scores if we think they’re unfair. We should be entitled to know how the algorithms work: How, for example, will my score change if I miss an electricity bill? This is a bit more than FCRA now provides.
+
+Further, Congress should create a new regulator — along the lines of the Food and Drug Administration — to ensure that every important, large-scale algorithm can pass three basic tests 1  :
+
+It’s at least as good as the human process it replaces (this will force companies to admit how they define “success” for an algorithm, which far too often simply translates into profit),
+It doesn’t disproportionately fail when dealing with protected classes (as facial recognition software is known to do);
+It doesn’t cause crazy negative externalities, such as destroying people’s trust in facts or sense of self-worth. Companies wielding algorithms that could have such long-term negative effects would be monitored by third parties who aren’t beholden to shareholders.
+I’m no policy wonk, and I recognize that it’s not easy to grasp the magnitude and complexity of the mess we’re in. A few simple rules, though, could go a long way toward limiting the damage.
+
+Disclosure: I have a company that offers such algorithm-auditing services.

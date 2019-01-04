@@ -1,0 +1,25 @@
+How America Can Stop Being the Wild West of Data
+It can’t follow Europe’s example. But Senator Mark Warner has some good ideas.
+
+By
+Cathy O'Neil
+
+Governments everywhere are grappling with a difficult task: how to define what data the likes of Facebook and Google can collect about people, and what can be done with it. For the U.S., a new set of proposals from Senator Mark Warner might point the way forward.
+
+In many ways, Europe has been the global standard-setter in regulating big data. Since 1995, it has strictly limited how personal information can be used. For the most part, if Europeans give a specific entity permission to collect their data for a specific use, that’s where it stops. Information gleaned from a person's activity on a social network, for example, cannot be repurposed to make credit decisions.
+
+Europe's new General Data Protection Regulation extends and strengthens those principles, empowering people to move their data from one company to another, or to be forgotten completely. Companies that don’t comply face hefty penalties. Computer algorithms that, say, deliver ads or assess job candidates must be defensible as “appropriate mathematical or statistical procedures.” If people think they’re being treated unfairly, they can demand that a human provide an explanation. 1
+
+America can’t adopt a regime like Europe’s, because it has long taken a much more laissez-faire approach. Except for specific cases such as medical records, personal information is up for grabs as soon as people allow anyone to collect it. All one needs to do is click “I agree” on a smartphone app, and the hoovering starts. A robust industry has sprung up to warehouse data, create profiles and sell them to whoever wants to know, for pretty much any purpose. It’s the Wild West.
+
+This is good and bad. Conveniences accumulate when everyone’s data is out there: Drivers, for example, benefit greatly from apps such as Waze, which uses data gleaned from myriad smartphones to discern traffic patterns and give better directions. But Americans also expose themselves to exploitation — for instance, when insurers use data on consumption habits to predict health costs, and potentially to jack up health insurance payments.
+
+Here’s where Warner’s white paper, Potential Policy Proposals for Regulation of Social Media and Technology Firms, comes in. It’s a stew of competing and conflicting suggestions, but overall it leans toward a sensible approach. Instead of limiting or cutting off data collection, it seeks to level the playing field.
+
+Consider Facebook: It’s hard for new social networks or messaging apps to compete, because the company already has everyone’s information. So one proposal suggests giving new entrants access to Facebook’s friend networks, or at least making the information easy for users to port to a competitor. This is a kind of antitrust regulation that doubles down on data availability rather than stifling it.
+
+As regards algorithms, Warner’s approach would be more focused than Europe’s, targeting those that might have the biggest effect on people’s lives. The government, for example, could require that algorithms making decisions about credit, housing and employment be audited for fairness and bias. Also, people should be able to see and correct the data that go into the computer. If such requirements make the process less efficient, that “seems an acceptable cost to promote greater fairness, auditability, and transparency.”
+
+There’s no guarantee that any of this will become law, and even then only time will how well it would work. We’re in uncharted territory. But given how much of Americans’ personal data is already out there, Warner’s proposals are probably the best possible approach.
+
+Of course, that all begs the question, how can such requirements be enforced? What kind of explanation is necessary, for example? Speaking as a former hedge fund quant, I can think of a few ways to give an explanation that is, by construction, meaningless. Similarly, who’s in charge of deciding whether a formula is appropriate? The same people who designed it? It hasn’t been spelled out yet.
