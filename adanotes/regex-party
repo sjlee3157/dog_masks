@@ -1,0 +1,16 @@
+Regex Party!
+
+a = /\A[+-]?\d*\.{1}\d+\Z/ # float    doesn't accept ""
+b = /\A[+-]?\d+\Z/ # integer   doesn't accept ""
+c = /\A-{0,1}\d{0,}(\.\d{0,})?\z/ # mine  accepts ""
+
+str = gets.chomp
+if str =~ a
+  puts "yes a"
+end
+if str =~ b
+  puts "yes b"
+end
+if str =~ c
+  puts "yes c"
+end

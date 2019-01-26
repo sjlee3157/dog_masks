@@ -1,0 +1,11 @@
+#!/Users/samjo/.rvm/rubies/ruby-2.5.1/bin/ruby
+
+chmod u+x ./*.rb
+u - user or g - group
+x - executable
+
+home directory is /Users/samjo/
+~/documents/ada/
+~/documents/adahw/
+~/documents/adanotes/
+~/documents/notes/
