@@ -1,0 +1,90 @@
+<!-- Lecture Notes:
+Every HTML page needs to have 1 and only 1 body
+Semantic tags: newer tags (not <div>)
+
+MDN is the go-to resource by Mozilla.
+Search MDN HTML elements reference.
+
+<strong> and <em> are SEMANTIC - they provide a little bit of meaning, and it's OK to use them.
+do not use <b> or <i>. use CSS instead.
+
+The <header></header> and <footer></footer> tags don’t generate new sections in a document:
+they divide up the content inside sections.
+every sectioning element (body, article, section, nav and aside) can have its own header and footer.
+
+Each section has its own heading hierarchy.
+
+It’s always the first heading element (let it be h1 or a lower rank heading tag) that defines the heading of the given section. The following heading tags inside the same section need to be relative to this. (If the first heading is an h3 inside a sectioning element, don’t put an h3 after that.)
+
+<nav></nav> and <aside></aside> don’t belong to the main outline of the HTML document
+they are usually not rendered initially by assistive technologies.
+
+https://gsnedders.html5.org/outliner/
+
+CSS Lecture Notes
+
+selector: WHAT you want to change
+property: what PART you want to change
+value: HOW you want to change it
+
+declaration: property + value
+rule-set: selector with the declaration block.
+every ruleset appears on a line by itself.
+
+space between selector and curly brace
+close the declaration block on a line by itself
+indent each declaration
+
+ -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- head holds all the meta data -->
+    <!-- the meta element is a self-closing tag -->
+    <meta charset="UTF-8">
+    <title>This site should have a title!</title>
+  </head>
+  <body>
+    <!-- Your code goes here! -->
+    <!-- headers (h1..h6)-->
+    <h1>Hotel Hangover</h1>
+    <h2>You did this to yourself</h2>
+    <h3>by Sammi-Jo</h3>
+
+    <!-- Paragraph -->
+    <p>Bad kitty bad kitty</p>
+
+    <!-- A Link -->
+    <a href="http://google.com">See if Google has an answer.</a>
+    <a href="http://blog.teamtreehouse.com/use-html5-sectioning-elements">Semantic sectioning</a>
+
+    <!-- Image -->
+    <img src="http://lorempixel.com/400/200/" alt="Lorem Pixel can't come to the phone right now">
+
+    <!-- An Unordered List with List Items -->
+    <ul>
+      <li><a href="https://validator.w3.org/nu/#textarea">Markup Validation Service</a></li>
+      <li>thing1</li>
+      <li>thing 2</li>
+    </ul>
+
+    <!-- An Ordered List with List Items -->
+    <ol>
+      <li><a href="http://learn.shayhowe.com/html-css/building-your-first-web-page/">Learn to Code: HTML & CSS resource</a></li>
+      <li>div</li>
+      <li>body</li>
+      <li>section</li>
+      <li>article</li>
+      <li>nav</li>
+      <li>aside</li>
+      <li>header</li>
+      <li>footer</li>
+    </ol>
+    <!-- HTML audio -->
+    <audio controls>
+      <source src="soundfile.wav" type="audio/wav">
+      <source src="horse.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+  </body>
+</html>
