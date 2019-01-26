@@ -89,14 +89,14 @@ b = [8]
 
 puts "test 5 actual:"
 puts find_median_sorted_arrays(a, b)
-puts "expected median: 8"
+puts "expected median: 8.0"
 
 a = [4]
 b = [2]
 
 puts "test 6 actual:"
 puts find_median_sorted_arrays(a, b)
-puts "expected median: 3"
+puts "expected median: 3.0"
 
 a = []
 b = [2]
